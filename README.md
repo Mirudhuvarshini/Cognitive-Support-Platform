@@ -48,7 +48,7 @@ Navigating a world designed for neurotypical minds can lead to burnout, sensory 
 
 ## Disclaimer
 
-This platform provides supportive tools and self-assessment guidance. **It does not provide medical diagnosis.** Please consult healthcare professionals for medical advice.
+This platform provides supportive tools and self-assessment guidance. **It does not provide medical diagnosis.** Consult healthcare professionals for medical advice.
 
 ---
 
